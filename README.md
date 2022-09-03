@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @FullChem
-- 👀 I’m interested in Web Development/CyberSecurity
-- 🌱 I’m currently learning HTML5&CSS3&JAVASCRIPT 
-- 💞️ I’m looking to collaborate on Front-End Dev Community 
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning React/mongo.db
 - 📫 How to reach me Mail: fullchem@protonmail.com
