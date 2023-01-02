@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @FullChem
-- 👀 I’m interested in Cybersecurity/Web development
+- 👀 I’m interested in Web development/UI&UX Design
 - 🌱 I’m currently learning React/mongo.db
-- 📫 How to reach me Mail: fullchem@protonmail.com
+- 📫 How to reach me Mail: farfromdistance@gmail.com
